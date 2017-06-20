@@ -176,4 +176,8 @@ mark {
     width: 28px;
     height: 28px; } }
 
+  .work p{
+    word-spacing: normal;
+  }
+
 /*# sourceMappingURL=index.css.map */
